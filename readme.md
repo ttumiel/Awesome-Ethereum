@@ -5,29 +5,104 @@ An awesome list about everything related to the Ethereum platform.
 Pull requests are welcome!
 
 
+Docs
+siraj
+Tutorials
+related lists
+
+Protocol section
+swarm
+hive
+....
+
+
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+1. [Documentation](#courses)
+2. [Programming](#books)
+3. [Tutorials](#programming)
+4. [DApps](#philosophy)
+5. [Code](#free-content)
+6. [Learning](#code)
+7. [Philosophy](#videos)
+8. [Videos](#learning)
+9. [Wallets]()
+10. [Protocols]()
+11. [Official]()
 
 
-## Section
+## Documentation
 
-About this section. Optional. Keep this short and focus on the list.
+Official Ethereum Documentation.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [r/Ethereum](http://example.com)
+- [Geth Docs](http://example.com)
+- [Whitepaper]
+- [Yellowpaper]
 
 
-## Contribute
+## Programming
+
+ - [OpenZeppelin](https://openzeppelin.org/) - battle-tested framework of secure, reusable smart contracts
+ - [Truffle Framework](https://www.truffleframework.com/) - development environment for blockchain applications
+ - [Ganache]() - personal Ethereum blockchain to run tests
+ - [Remix Online IDE]()
+
+## Tutorials
+
+- [CryptoZombies](https://cryptozombies.io/) - Learn to Code Ethereum DApps By Building Your Own Game
+
+
+## DApps
+- State of the DApps
+
+
+## Code
+
+Solidity
+Vyper
+
+
+## Learning
+
+
+
+## Philosophy
+
+
+
+## Videos
+
+- Siraj
+
+## Wallets
+
+- [Geth]
+- MetaMask
+- MyEtherWallet
+- Mist
+
+## Protocols
+Casper
+Sharding
+Plasma
+Whisper
+
+## Misc
+
+- r/Ethereum
+
+
+## Official
+
+- [Ethereum Website](https://www.ethereum.org/)
+- [Ethereum Foundation](https://ethereum.org/foundation)
+- [Ethereum Github]()
+
+
+
+
+# Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
