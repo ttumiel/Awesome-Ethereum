@@ -4,13 +4,7 @@ An awesome list about everything related to the Ethereum platform.
 
 Pull requests are welcome!
 
-
-Docs
-siraj
-Tutorials
-related lists
-
-
+In the spirit of decentralized applications however, please ensure your submission is not a paywalled product.
 
 
 ## Contents
