@@ -9,13 +9,13 @@ In the spirit of decentralized applications however, please ensure your submissi
 
 ## Contents
 
-1. [Documentation](#courses)
-2. [Programming](#books)
-3. [Tutorials](#programming)
-4. [Code](#free-content)
-5. [Learning](#code)
-6. [Philosophy](#videos)
-7. [Videos](#learning)
+1. [Documentation](#documentation)
+2. [Programming](#programming)
+3. [Tutorials](#tutorials)
+4. [Code](#code)
+5. [Learning](#learning)
+6. [Philosophy](#philosophy)
+7. [Videos](#videos)
 8. [Wallets](#wallets)
 9. [Protocols](#protocols)
 10. [Misc](#misc)
