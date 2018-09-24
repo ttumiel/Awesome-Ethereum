@@ -22,9 +22,10 @@ related lists
 5. [Learning](#code)
 6. [Philosophy](#videos)
 7. [Videos](#learning)
-8. [Wallets]()
-9. [Protocols]()
-10. [Official]()
+8. [Wallets](#wallets)
+9. [Protocols](#protocols)
+10. [Misc](#misc)
+11. [Official](#official)
 
 
 ## Documentation
