@@ -76,12 +76,14 @@ Official Ethereum Documentation.
 
 ## Philosophy
 
+The Ideas behind the Ethereum Project.
 
 
 ## Videos
 
 - [Ethereum Explained](https://www.youtube.com/watch?v=-_Qs0XdPpw8)
 - [A Guide to Building Your First Decentralized Application](https://www.youtube.com/watch?v=gSQXq2_j-mw)
+- [Ethereum Youtube Channel](https://www.youtube.com/user/ethereumproject)
 
 ## Wallets
 
@@ -100,7 +102,7 @@ Official Ethereum Documentation.
 
 ## Misc
 
-- [r/Ethereum](https://www.reddit.com/r/ethereum/)
+- [r/Ethereum](https://www.reddit.com/r/ethereum/) - Ethereum subreddit
 - [State of the DApps](https://www.stateofthedapps.com/) - A comprehensive list of the Decentralized Applications (DApps) on Ethereum.
 - [ETH Gas Station](https://ethgasstation.info/) - a tool to check the current price of gas for transactions
 - [Week in Ethereum](http://www.weekinethereum.com/) - A summary of everything happening in Ethereum each week.
@@ -119,7 +121,7 @@ Official Ethereum Documentation.
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## License
 
