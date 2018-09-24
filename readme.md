@@ -43,9 +43,11 @@ Official Ethereum Documentation.
 
  - [Truffle Framework](https://www.truffleframework.com/) - development environment for blockchain applications
 
- - [Ganache]() - personal Ethereum blockchain to run tests
+ - [Ganache](https://truffleframework.com/ganache) - personal Ethereum blockchain to run tests
 
- - [Remix Online IDE]()
+ - [Remix Online IDE](https://remix.ethereum.org/)
+
+ - [Embark Framework](https://github.com/embark-framework/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
 
 
 ## Tutorials
@@ -54,8 +56,8 @@ Official Ethereum Documentation.
 - [Hitchhikers Guide to Smart Contracts](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 - [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4)
 - [Parity DApp Tutorial](https://wiki.parity.io/Dapp-Tutorial)
-
-- [Start Ethereum DApp Development Career | Ultimate Guide](https://www.reddit.com/r/ethereum/comments/9h0w83/start_ethereum_dapp_development_career_ultimate/)
+- [Start Ethereum DApp Development Career](https://www.reddit.com/r/ethereum/comments/9h0w83/start_ethereum_dapp_development_career_ultimate/)
+- [Full Stack DApp Tutorial Series](https://beta.kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-series)
 
 
 ## Code
@@ -75,6 +77,8 @@ Official Ethereum Documentation.
 
 * [Ethernaut Smart Contract Capture the Flag](https://ethernaut.zeppelin.solutions/)
 
+* [Ethereum Syllabus](https://novicedock.com/learn/cryptocurrency/ethereum)
+
 
 ## Philosophy
 
@@ -87,16 +91,14 @@ Official Ethereum Documentation.
 
 ## Wallets
 
-- [Geth]
 - [MetaMask](https://metamask.io/)
 - [MyEtherWallet](https://www.myetherwallet.com/)
 - [Mist](https://github.com/ethereum/mist)
 - [MyCrypto](https://www.mycrypto.com)
 
 ## Protocols
-* [Swarm]()(http://swarm-gateways.net/bzz:/theswarm.eth/) - Swarm is a distributed storage platform and content distribution service
+* [Swarm](http://swarm-gateways.net/bzz:/theswarm.eth/) - Swarm is a distributed storage platform and content distribution service
 * [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-pages) - a communication protocol for DApps to communicate with each other.
-
 * [Casper](https://github.com/ethereum/wiki/wiki/Casper-Proof-of-Stake-compendium) - Proof of Stake Implementation
 * [Sharding](https://github.com/ethereum/wiki/wiki/Sharding-introduction-R&D-compendium) - Partitioning computational resources so that node do not have to process the entire blockchain.
 * [Web3.js](https://github.com/ethereum/web3.js) - Ethereum's javascript API
@@ -104,16 +106,17 @@ Official Ethereum Documentation.
 
 ## Misc
 
-- r/Ethereum
+- [r/Ethereum](https://www.reddit.com/r/ethereum/)
 - [State of the DApps](https://www.stateofthedapps.com/) - A comprehensive list of the Decentralized Applications (DApps) on Ethereum.
 - [ETH Gas Station](https://ethgasstation.info/) - a tool to check the current price of gas for transactions
+- [Week in Ethereum](http://www.weekinethereum.com/) - A summary of everything happening in Ethereum each week.
 
 
 ## Official
 
 - [Ethereum Website](https://www.ethereum.org/)
 - [Ethereum Foundation](https://ethereum.org/foundation)
-- [Ethereum Github]()
+- [Ethereum Github](https://github.com/ethereum/)
 
 
 
@@ -128,5 +131,5 @@ Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-m
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, <%= username %> has waived all copyright and
+To the extent possible under law, @Tom2718 has waived all copyright and
 related or neighboring rights to this work.
