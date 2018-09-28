@@ -64,6 +64,11 @@ Official Ethereum Documentation.
 - [Accounts, Transactions, Gas, and Block Gas Limits in Ethereum](https://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/)
 - [Ethernaut Smart Contract Capture the Flag](https://ethernaut.zeppelin.solutions/)
 - [Ethereum Syllabus](https://novicedock.com/learn/cryptocurrency/ethereum)
+- [Cryptocurrency Security: University of Illinois 2016](http://soc1024.ece.illinois.edu/teaching/ece598am/fall2016/)
+- [Stanford CS 251(p): Bitcoin and Crypto Currencies](https://crypto.stanford.edu/cs251_fall15/)
+- [Introduction to Digital Currencies: University of Nicosia](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/)
+- [Bitcoin and Blockchain Technology: Concordia University](https://users.encs.concordia.ca/~clark/courses/1703-6630/index.html)
+- [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 
 
 ## Philosophy
