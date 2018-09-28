@@ -75,6 +75,9 @@ Official Ethereum Documentation.
 
 The Ideas behind the Ethereum Project.
 
+- [Making Smart Contracts Smarter](https://eprint.iacr.org/2016/633.pdf)
+- [Ethereum Wiki Philosophy](https://github.com/ethereum/ethereum.org/wiki/Philosophy)
+
 
 ## Videos
 
