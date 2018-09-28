@@ -48,6 +48,7 @@ Official Ethereum Documentation.
 - [Parity DApp Tutorial](https://wiki.parity.io/Dapp-Tutorial)
 - [Start Ethereum DApp Development Career](https://www.reddit.com/r/ethereum/comments/9h0w83/start_ethereum_dapp_development_career_ultimate/)
 - [Full Stack DApp Tutorial Series](https://beta.kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-series)
+- [Ethereum Builders Guide](https://ethereumbuilders.gitbooks.io/guide/content/en/index.html)
 
 
 ## Code
