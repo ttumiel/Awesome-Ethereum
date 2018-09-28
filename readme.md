@@ -106,6 +106,7 @@ The Ideas behind the Ethereum Project.
 - [State of the DApps](https://www.stateofthedapps.com/) - A comprehensive list of the Decentralized Applications (DApps) on Ethereum.
 - [ETH Gas Station](https://ethgasstation.info/) - a tool to check the current price of gas for transactions
 - [Week in Ethereum](http://www.weekinethereum.com/) - A summary of everything happening in Ethereum each week.
+- [Ethereum Worldwide Meetups](https://www.meetup.com/find/?allMeetups=false&keywords=ethereum)
 
 
 ## Official
