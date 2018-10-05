@@ -36,7 +36,7 @@ Official Ethereum Documentation.
  - [OpenZeppelin](https://openzeppelin.org/) - battle-tested framework of secure, reusable smart contracts
  - [Truffle Framework](https://www.truffleframework.com/) - development environment for blockchain applications
  - [Ganache](https://truffleframework.com/ganache) - personal Ethereum blockchain to run tests
- - [Remix Online IDE](https://remix.ethereum.org/)
+ - [Remix Online IDE](https://remix.ethereum.org/) - A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter
  - [Embark Framework](https://github.com/embark-framework/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
 
 
