@@ -100,7 +100,7 @@ The Ideas behind the Ethereum Project.
 - [Casper](https://github.com/ethereum/wiki/wiki/Casper-Proof-of-Stake-compendium) - Proof of Stake Implementation
 - [Sharding](https://github.com/ethereum/wiki/wiki/Sharding-introduction-R&D-compendium) - Partitioning computational resources so that node do not have to process the entire blockchain.
 - [Web3.js](https://github.com/ethereum/web3.js) - Ethereum's javascript API
-- [Ethash Proof of Work](https://github.com/ethereum/wiki/wiki/Ethash)
+- [Ethash Proof of Work](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum's Proof of Work Algorithm
 
 ## Misc
 
