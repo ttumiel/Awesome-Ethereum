@@ -84,7 +84,8 @@ The Ideas behind the Ethereum Project.
 
 - [Ethereum Explained](https://www.youtube.com/watch?v=-_Qs0XdPpw8)
 - [A Guide to Building Your First Decentralized Application](https://www.youtube.com/watch?v=gSQXq2_j-mw)
-- [Ethereum Youtube Channel](https://www.youtube.com/user/ethereumproject)
+- [Ethereum Youtube Channel](https://www.youtube.com/user/ethereumproject) - Mostly older videos of Devcon 1 and before.
+- [Ethereum Foundation Youtube Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) - Most up to date events and streams including the Ethereum Devcon conferences and dev meetings
 
 ## Wallets
 
@@ -108,6 +109,7 @@ The Ideas behind the Ethereum Project.
 - [ETH Gas Station](https://ethgasstation.info/) - a tool to check the current price of gas for transactions
 - [Week in Ethereum](http://www.weekinethereum.com/) - A summary of everything happening in Ethereum each week.
 - [Ethereum Worldwide Meetups](https://www.meetup.com/find/?allMeetups=false&keywords=ethereum)
+- [Ethereum Wiki Page](https://theethereum.wiki/w/index.php/Main_Page)
 
 
 ## Official
