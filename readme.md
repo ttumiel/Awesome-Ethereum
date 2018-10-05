@@ -53,8 +53,8 @@ Official Ethereum Documentation.
 
 ## Code
 
-- [Solidity Documentation](https://solidity.readthedocs.io)
-- [Vyper Documentation](https://vyper.readthedocs.io/en/latest/index.html)
+- [Solidity Documentation](https://solidity.readthedocs.io) - Programming language of choice for smart contracts.
+- [Vyper Documentation](https://vyper.readthedocs.io/en/latest/index.html) - Experimental smart contract programming language intended to replace Solidity.
 
 
 ## Learning
