@@ -26,9 +26,9 @@ In the spirit of decentralized applications however, please ensure your submissi
 
 Official Ethereum Documentation.
 
-- [Ethereum Wiki](https://github.com/ethereum/wiki/wiki)
-- [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
-- [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf)
+- [Ethereum Github Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum. The go-to place for all things.
+- [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) - Non-technical introductory description of Ethereum.
+- [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) - Technical description of Ethereum. Technically outdated, but interesting.
 
 
 ## Programming
