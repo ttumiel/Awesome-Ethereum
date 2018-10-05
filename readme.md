@@ -89,10 +89,10 @@ The Ideas behind the Ethereum Project.
 
 ## Wallets
 
-- [MetaMask](https://metamask.io/)
-- [MyEtherWallet](https://www.myetherwallet.com/)
-- [Mist](https://github.com/ethereum/mist)
-- [MyCrypto](https://www.mycrypto.com)
+- [MetaMask](https://metamask.io/) - Browser extension that can interact with Remix IDE and send transactions to different testnets.
+- [MyEtherWallet](https://www.myetherwallet.com/) - Online wallet service that interacts with the blockchain and performs several other useful functions.
+- [Mist](https://github.com/ethereum/mist) - Official Ethereum wallet - Browse and use Ðapps on the Ethereum network.
+- [MyCrypto](https://www.mycrypto.com) - Online wallet service that interacts with the blockchain and performs several other useful functions.
 
 ## Protocols
 - [Swarm](http://swarm-gateways.net/bzz:/theswarm.eth/) - Swarm is a distributed storage platform and content distribution service
