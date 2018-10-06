@@ -17,9 +17,10 @@ In the spirit of decentralized applications however, please ensure your submissi
 6. [Philosophy](#philosophy)
 7. [Videos](#videos)
 8. [Wallets](#wallets)
-9. [Protocols](#protocols)
-10. [Misc](#misc)
-11. [Official](#official)
+9. [Blockchain Utilities](#blockchain-utilities)
+10. [Protocols](#protocols)
+11. [Misc](#misc)
+12. [Official](#official)
 
 
 ## Documentation
@@ -93,6 +94,13 @@ The Ideas behind the Ethereum Project.
 - [MyEtherWallet](https://www.myetherwallet.com/) - Online wallet service that interacts with the blockchain and performs several other useful functions.
 - [Mist](https://github.com/ethereum/mist) - Official Ethereum wallet - Browse and use Ðapps on the Ethereum network.
 - [MyCrypto](https://www.mycrypto.com) - Online wallet service that interacts with the blockchain and performs several other useful functions.
+
+## Blockchain Utilities
+
+- [ETH Gas Station](https://ethgasstation.info/) - a tool to check the current price of gas for transactions
+- [Etherscan](https://etherscan.io/) - Ethereum block explorer with other useful block utilities.
+- [Ethplorer](https://ethplorer.io/) - Ethereum block explorer
+- [Etherchain](https://www.etherchain.org/) - Ethereum block explorer
 
 ## Protocols
 - [Swarm](http://swarm-gateways.net/bzz:/theswarm.eth/) - Swarm is a distributed storage platform and content distribution service
