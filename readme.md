@@ -1,10 +1,12 @@
 # Awesome Ethereum [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-An awesome list about everything related to the Ethereum platform.
+> An awesome list about everything related to the Ethereum platform.
 
 Pull requests are welcome!
 
 In the spirit of decentralized applications however, please ensure your submission is not a paywalled product.
+
+Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 
 ## Contents
@@ -133,7 +135,6 @@ The Ideas behind the Ethereum Project.
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## License
 
