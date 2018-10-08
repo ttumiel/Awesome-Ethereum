@@ -46,12 +46,12 @@ Official Ethereum Documentation.
 ## Tutorials
 
 - [CryptoZombies](https://cryptozombies.io/) - Learn to Code Ethereum DApps By Building Your Own Game
-- [Hitchhikers Guide to Smart Contracts](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
-- [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4)
-- [Parity DApp Tutorial](https://wiki.parity.io/Dapp-Tutorial)
+- [Hitchhikers Guide to Smart Contracts](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05) - Build smart contracts on Ethereum using Truffle, testrpc and Solidity.
+- [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4) - Smart contract tutorial with a focus on building up understanding before code.
+- [Parity DApp Tutorial](https://wiki.parity.io/Dapp-Tutorial) - 10 part tutorial on how to write DApps.
 - [Start Ethereum DApp Development Career](https://www.reddit.com/r/ethereum/comments/9h0w83/start_ethereum_dapp_development_career_ultimate/)
-- [Full Stack DApp Tutorial Series](https://beta.kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-series)
-- [Ethereum Builders Guide](https://ethereumbuilders.gitbooks.io/guide/content/en/index.html)
+- [Full Stack DApp Tutorial Series](https://beta.kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-series) - Full stack DApps using various frameworks.
+- [Ethereum Builders Guide](https://ethereumbuilders.gitbooks.io/guide/content/en/index.html) - Gitbook for building on Ethereum that goes deeper into understanding technical functionality.
 
 
 ## Code
