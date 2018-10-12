@@ -1,13 +1,11 @@
-# Awesome Ethereum 
-
 <br/>
 <div align="center">
   <img width="380px" src="./project_logo.jpg">
 </div>
 <br/>
 <div align="center">
-> An awesome list about everything related to the Ethereum platform.
-
+An awesome list about everything related to the Ethereum platform.
+<br/>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 <br/>
