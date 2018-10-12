@@ -1,10 +1,18 @@
-# Awesome Ethereum [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Ethereum 
 
+<br/>
+<div align="center">
+  <img width="380px" src="./project_logo.jpg">
+</div>
+<br/>
+<div align="center">
 > An awesome list about everything related to the Ethereum platform.
 
-Pull requests are welcome!
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+<br/>
 
-In the spirit of decentralized applications however, please ensure your submission is not a paywalled product.
+Pull requests are welcome! In the spirit of decentralized applications however, please ensure your submission is not a paywalled product.
 
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
