@@ -52,6 +52,8 @@ Official Ethereum Documentation.
 
 ## Tutorials
 
+Step by step guides on using Ethereum.
+
 - [CryptoZombies](https://cryptozombies.io/) - Learn to Code Ethereum DApps By Building Your Own Game
 - [Hitchhikers Guide to Smart Contracts](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05) - Build smart contracts on Ethereum using Truffle, testrpc and Solidity.
 - [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4) - Smart contract tutorial with a focus on building up understanding before code.
@@ -71,13 +73,15 @@ Official Ethereum Documentation.
 
 ## Learning
 
+Learn about the theory behind Ethereum.
+
 - [Ethereum Stack Exchange](https://ethereum.meta.stackexchange.com/questions/431/faq-frequently-asked-questions-and-reference-answers)
 - [Smart contract safety](https://github.com/ethereum/wiki/wiki/Safety)
-- [Accounts, Transactions, Gas, and Block Gas Limits in Ethereum](https://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/)
-- [Ethernaut Smart Contract Capture the Flag](https://ethernaut.zeppelin.solutions/)
+- [Accounts, Transactions, Gas, and Block Gas Limits in Ethereum](https://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/) - Functional description of Ethereum accounts, gas and transactions
+- [Ethernaut Smart Contract Capture the Flag](https://ethernaut.zeppelin.solutions/) - Hacking Smart Contracts
 - [Ethereum Syllabus](https://novicedock.com/learn/cryptocurrency/ethereum)
-- [Cryptocurrency Security: University of Illinois 2016](http://soc1024.ece.illinois.edu/teaching/ece598am/fall2016/)
-- [Stanford CS 251(p): Bitcoin and Crypto Currencies](https://crypto.stanford.edu/cs251_fall15/)
+- [Cryptocurrency Security: University of Illinois 2016](http://soc1024.ece.illinois.edu/teaching/ece598am/fall2016/) - Cryptocurrency Security Course
+- [Stanford CS 251(p): Bitcoin and Crypto Currencies](https://crypto.stanford.edu/cs251_fall15/) - Stanford Bitcoin and Cryptocurrency Course
 - [Introduction to Digital Currencies: University of Nicosia](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/)
 - [Bitcoin and Blockchain Technology: Concordia University](https://users.encs.concordia.ca/~clark/courses/1703-6630/index.html)
 - [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
