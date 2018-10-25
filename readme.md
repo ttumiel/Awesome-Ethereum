@@ -85,7 +85,7 @@ Learn about the theory behind Ethereum.
 - [Introduction to Digital Currencies: University of Nicosia](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/)
 - [Bitcoin and Blockchain Technology: Concordia University](https://users.encs.concordia.ca/~clark/courses/1703-6630/index.html)
 - [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
-
+- [Low-Resource Eclipse Attacks on Ethereum’s Peer-to-Peer Network](https://www.cs.bu.edu/~goldbe/projects/eclipseEth.pdf)
 
 ## Philosophy
 
@@ -124,6 +124,7 @@ The Ideas behind the Ethereum Project.
 - [Sharding](https://github.com/ethereum/wiki/wiki/Sharding-introduction-R&D-compendium) - Partitioning computational resources so that node do not have to process the entire blockchain.
 - [Web3.js](https://github.com/ethereum/web3.js) - Ethereum's javascript API
 - [Ethash Proof of Work](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum's Proof of Work Algorithm
+
 
 ## Misc
 
