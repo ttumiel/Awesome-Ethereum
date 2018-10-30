@@ -22,7 +22,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 2. [Programming](#programming)
 3. [Tutorials](#tutorials)
 4. [Code](#code)
-5. [Learning](#learning-and-moocs)
+5. [Learning and MOOCs](#learning-and-moocs)
 6. [Philosophy](#philosophy)
 7. [Videos](#videos)
 8. [Wallets](#wallets)
