@@ -85,7 +85,6 @@ Learn about the theory behind Ethereum.
 - [Introduction to Digital Currencies: University of Nicosia](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/) - Digital currency introductory MOOC
 - [Bitcoin and Blockchain Technology: Concordia University](https://users.encs.concordia.ca/~clark/courses/1703-6630/index.html) - Introduction to Bitcoin and blockchain technology MOOC
 - [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/) - Security related best practices for smart contracts
-
 - [Introduction to Digital Currencies: University of Nicosia](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/)
 - [Bitcoin and Blockchain Technology: Concordia University](https://users.encs.concordia.ca/~clark/courses/1703-6630/index.html)
 - [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
