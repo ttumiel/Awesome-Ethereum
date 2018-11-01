@@ -92,8 +92,8 @@ Learn about the theory behind Ethereum.
 The Ideas behind the Ethereum Project.
 
 - [Making Smart Contracts Smarter](https://eprint.iacr.org/2016/633.pdf)
-- [Ethereum Wiki Philosophy](https://github.com/ethereum/ethereum.org/wiki/Philosophy)
-- [Ethereum Improvement Proposals](https://eips.ethereum.org/)
+- [Ethereum Wiki Philosophy](https://github.com/ethereum/ethereum.org/wiki/Philosophy) - Some of the core philosophies of Ethereum.
+- [Ethereum Improvement Proposals](https://eips.ethereum.org/) - Standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards.
 
 
 ## Videos
