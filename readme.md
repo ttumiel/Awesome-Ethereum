@@ -29,8 +29,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 9. [Blockchain Utilities](#blockchain-utilities)
 10. [Protocols](#protocols)
 11. [Books](#books)
-11. [Misc](#misc)
-12. [Official](#official)
+12. [Misc](#misc)
+13. [Official](#official)
 
 
 ## Documentation
