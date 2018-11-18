@@ -129,6 +129,11 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Sharding](https://github.com/ethereum/wiki/wiki/Sharding-introduction-R&D-compendium) - Partitioning computational resources so that node do not have to process the entire blockchain.
 - [Web3.js](https://github.com/ethereum/web3.js) - Ethereum's javascript API.
 - [Ethash Proof of Work](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum's Proof of Work Algorithm.
+- zk-SNARKS - Verify knowledge of a secret without revealing it.
+  - [Introduction to zk-SNARKS with examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b) - A practical overview of zk-SNARKS.
+  - [A practical beginner's guide to creating, proving, and verifying zkSNARKs](https://github.com/jstoxrocky/zksnarks_example) - Introduction to zk-SNARKS and implementation as a smart contract.
+  - [zk-SNARKS: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6) - Technical explanation of zk-SNARKS.
+  - [zk-SNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/) - Technical explanation of zk-SNARKS.
 
 
 ## Books
