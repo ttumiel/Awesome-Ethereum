@@ -120,6 +120,9 @@ The Ideas behind the Ethereum Project.
 - [Etherchain](https://www.etherchain.org/) - Ethereum block explorer.
 
 ## Protocols
+
+Descriptions and implementations of Ethereum-related protocols.
+
 - [Swarm](http://swarm-gateways.net/bzz:/theswarm.eth/) - Swarm is a distributed storage platform and content distribution service.
 - [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-pages) - a communication protocol for DApps to communicate with each other.
 - [Casper](https://github.com/ethereum/wiki/wiki/Casper-Proof-of-Stake-compendium) - Proof of Stake Implementation.
