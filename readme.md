@@ -126,6 +126,14 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Swarm](http://swarm-gateways.net/bzz:/theswarm.eth/) - Swarm is a distributed storage platform and content distribution service.
 - [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-pages) - a communication protocol for DApps to communicate with each other.
 - [Casper](https://github.com/ethereum/wiki/wiki/Casper-Proof-of-Stake-compendium) - Proof of Stake Implementation.
+  - Casper CBC - Correct by Construction for full Proof-of-Stake.
+    - [CBC Wiki](https://github.com/ethereum/cbc-casper/wiki)
+    - [CBC Research Paper](https://github.com/ethereum/research/blob/master/papers/cbc-consensus/AbstractCBC.pdf)
+  - Casper FFG - Friendly Finality Gadget for PoS validation with Proof-of-Work.
+    - [Code Repository](https://github.com/ethereum/casper) - The FFG contract, related software and tests.
+    - [Casper the Friendly Finality Gadget Paper](https://arxiv.org/abs/1710.09437) - Research paper detailing FFG.
+  - [PoS FAQs](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQs)
+  - [FFG vs CBC Comparison](https://ethereum.stackexchange.com/questions/31797/casper-ffg-vs-casper-ghost-cbc/31814#31814) - A Stack Exchange comparison of FFG and CBC.
 - [Sharding](https://github.com/ethereum/wiki/wiki/Sharding-introduction-R&D-compendium) - Partitioning computational resources so that nodes do not have to process the entire blockchain.
 - [Web3.js](https://github.com/ethereum/web3.js) - Ethereum's javascript API.
 - [Ethash Proof of Work](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum's Proof of Work Algorithm.
