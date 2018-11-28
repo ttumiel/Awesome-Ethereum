@@ -127,6 +127,7 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-pages) - a communication protocol for DApps to communicate with each other.
 - [Casper](https://github.com/ethereum/wiki/wiki/Casper-Proof-of-Stake-compendium) - Proof of Stake Implementation.
   - Casper CBC - Correct by Construction for full Proof-of-Stake.
+    - [Code Repository](https://github.com/ethereum/cbc-casper) - A python implementation of a class of correct-by-construction consensus protocols.
     - [CBC Wiki](https://github.com/ethereum/cbc-casper/wiki)
     - [CBC Research Paper](https://github.com/ethereum/research/blob/master/papers/cbc-consensus/AbstractCBC.pdf)
   - Casper FFG - Friendly Finality Gadget for PoS validation with Proof-of-Work.
