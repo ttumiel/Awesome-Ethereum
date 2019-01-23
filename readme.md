@@ -37,16 +37,16 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 
 Official Ethereum Documentation.
 
-- [Ethereum Github Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum. The go-to place for all things.
+- [Ethereum GitHub Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum. The go-to place for all things.
 - [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) - Non-technical introductory description of Ethereum.
 - [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) - Technical description of Ethereum. Technically outdated, but interesting.
 
 
 ## Programming
 
- - [OpenZeppelin](https://openzeppelin.org/) - battle-tested framework of secure, reusable smart contracts.
- - [Truffle Framework](https://www.truffleframework.com/) - development environment for blockchain applications.
- - [Ganache](https://truffleframework.com/ganache) - personal Ethereum blockchain to run tests.
+- [OpenZeppelin](https://openzeppelin.org/) - Battle-tested framework of secure, reusable smart contracts.
+- [Truffle Framework](https://www.truffleframework.com/) - Development environment for blockchain applications.
+- [Ganache](https://truffleframework.com/ganache) - Personal Ethereum blockchain to run tests.
  - [Remix Online IDE](https://remix.ethereum.org/) - A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
  - [Embark Framework](https://github.com/embark-framework/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
 
@@ -102,8 +102,8 @@ The Ideas behind the Ethereum Project.
 
 - [Ethereum Explained (22:00)](https://www.youtube.com/watch?v=-_Qs0XdPpw8) - Introductory explanation to the Ethereum platform.
 - [A Guide to Building Your First Decentralized Application (37:00)](https://www.youtube.com/watch?v=gSQXq2_j-mw)
-- [Ethereum Youtube Channel](https://www.youtube.com/user/ethereumproject) - Mostly older videos of Devcon 1 and before.
-- [Ethereum Foundation Youtube Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) - Most up to date events and streams including the Ethereum Devcon conferences and dev meetings.
+- [Ethereum YouTube Channel](https://www.youtube.com/user/ethereumproject) - Mostly older videos of Devcon 1 and before.
+- [Ethereum Foundation YouTube Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) - Most up to date events and streams including the Ethereum Devcon conferences and dev meetings.
 
 ## Wallets
 
@@ -114,7 +114,7 @@ The Ideas behind the Ethereum Project.
 
 ## Blockchain Utilities
 
-- [ETH Gas Station](https://ethgasstation.info/) - a tool to check the current price of gas for transactions.
+- [ETH Gas Station](https://ethgasstation.info/) - A tool to check the current price of gas for transactions.
 - [Etherscan](https://etherscan.io/) - Ethereum block explorer with other useful block utilities.
 - [Ethplorer](https://ethplorer.io/) - Ethereum block explorer.
 - [Etherchain](https://www.etherchain.org/) - Ethereum block explorer.
@@ -124,7 +124,7 @@ The Ideas behind the Ethereum Project.
 Descriptions and implementations of Ethereum-related protocols.
 
 - [Swarm](http://swarm-gateways.net/bzz:/theswarm.eth/) - Swarm is a distributed storage platform and content distribution service.
-- [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-pages) - a communication protocol for DApps to communicate with each other.
+- [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-pages) - A communication protocol for DApps to communicate with each other.
 - [Casper](https://github.com/ethereum/wiki/wiki/Casper-Proof-of-Stake-compendium) - Proof of Stake Implementation.
   - Casper CBC - Correct by Construction for full Proof-of-Stake.
     - [Code Repository](https://github.com/ethereum/cbc-casper) - A python implementation of a class of correct-by-construction consensus protocols.
@@ -136,26 +136,28 @@ Descriptions and implementations of Ethereum-related protocols.
   - [PoS FAQs](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQs)
   - [FFG vs CBC Comparison](https://ethereum.stackexchange.com/questions/31797/casper-ffg-vs-casper-ghost-cbc/31814#31814) - A Stack Exchange comparison of FFG and CBC.
 - [Sharding](https://github.com/ethereum/wiki/wiki/Sharding-introduction-R&D-compendium) - Partitioning computational resources so that nodes do not have to process the entire blockchain.
-- [Web3.js](https://github.com/ethereum/web3.js) - Ethereum's javascript API.
+- [Web3.js](https://github.com/ethereum/web3.js) - Ethereum's JavaScript API.
 - [Ethash Proof of Work](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum's Proof of Work Algorithm.
 - zk-SNARKS - Verify knowledge of a secret without revealing it.
   - [Introduction to zk-SNARKS with examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b) - A practical overview of zk-SNARKS.
   - [A practical beginner's guide to creating, proving, and verifying zkSNARKs](https://github.com/jstoxrocky/zksnarks_example) - Introduction to zk-SNARKS and implementation as a smart contract.
   - [zk-SNARKS: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6) - Technical explanation of zk-SNARKS.
   - [zk-SNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/) - Technical explanation of zk-SNARKS.
+- Plasma
 
 
 ## Books
-- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - A developers guide to the operation and use of Ethereum
-- [Introduction to Ethereum and Solidity](https://the-eye.eu/public/Books/qt.vidyagam.es/library/humble-bitcoin-bundle/Introducing%20Ethereum%20and%20Solidity_%20Foud%20Blockchain%20Programming%20for%20Beginners/Introducing%20Ethereum%20and%20Solidity_%20Foundatiin%20Programming%20for%20Beginners%20-%20Chris%20Dannen.pdf) - Learn Solidity development from concept to deployment
-- [Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations](https://www.goodreads.com/book/show/32762240-ethereum) - Learn about Ethereum (and blockchains) from an IBM blockchain liason
+
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - A developers guide to the operation and use of Ethereum.
+- [Introduction to Ethereum and Solidity](https://the-eye.eu/public/Books/qt.vidyagam.es/library/humble-bitcoin-bundle/Introducing%20Ethereum%20and%20Solidity_%20Foud%20Blockchain%20Programming%20for%20Beginners/Introducing%20Ethereum%20and%20Solidity_%20Foundatiin%20Programming%20for%20Beginners%20-%20Chris%20Dannen.pdf) - Learn Solidity development from concept to deployment.
+- [Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations](https://www.goodreads.com/book/show/32762240-ethereum) - Learn about Ethereum (and blockchains) from an IBM blockchain liason.
 
 
 ## Misc
 
 - [r/Ethereum](https://www.reddit.com/r/ethereum/) - Ethereum subreddit.
 - [State of the DApps](https://www.stateofthedapps.com/) - A comprehensive list of the Decentralized Applications (DApps) on Ethereum.
-- [ETH Gas Station](https://ethgasstation.info/) - a tool to check the current price of gas for transactions.
+- [ETH Gas Station](https://ethgasstation.info/) - A tool to check the current price of gas for transactions.
 - [Week in Ethereum](http://www.weekinethereum.com/) - A summary of everything happening in Ethereum each week.
 - [Ethereum Worldwide Meetups](https://www.meetup.com/find/?allMeetups=false&keywords=ethereum) - Meet up with the local Ethereum community via meetup.com.
 - [Ethereum Wiki Page](https://theethereum.wiki/w/index.php/Main_Page)
@@ -165,7 +167,7 @@ Descriptions and implementations of Ethereum-related protocols.
 
 - [Ethereum Website](https://www.ethereum.org/)
 - [Ethereum Foundation](https://ethereum.org/foundation)
-- [Ethereum Github](https://github.com/ethereum/)
+- [Ethereum GitHub](https://github.com/ethereum/)
 
 
 
