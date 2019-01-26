@@ -4,7 +4,9 @@
 </div>
 <br/>
 <div align="center">
-An awesome list about everything related to the <a href='https://en.wikipedia.org/wiki/Ethereum'>Ethereum</a> platform. Ethereum is an open-source, blockchain and smart contract computing platform.
+An awesome list about everything related to the <a href='https://en.wikipedia.org/wiki/Ethereum'>Ethereum</a> platform.
+<br />
+Ethereum is an open-source, blockchain and smart contract computing platform.
 <br/>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
