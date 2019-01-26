@@ -4,7 +4,7 @@
 </div>
 <br/>
 <div align="center">
-An awesome list about everything related to the Ethereum platform.
+An awesome list about everything related to the [Ethereum](https://en.wikipedia.org/wiki/Ethereum) platform. Ethereum is an open-source, blockchain and smart contract computing platform.
 <br/>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -12,8 +12,6 @@ An awesome list about everything related to the Ethereum platform.
 <br/>
 
 Pull requests are welcome! In the spirit of decentralized applications however, please ensure your submission is not a paywalled product.
-
-Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 
 ## Contents
@@ -37,9 +35,9 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 
 Official Ethereum Documentation.
 
-- [Ethereum GitHub Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum. The go-to place for all things.
-- [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) - Non-technical introductory description of Ethereum.
-- [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) - Technical description of Ethereum. Technically outdated, but interesting.
+- [GitHub Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum. The go-to place for all things.
+- [Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) - Non-technical introductory description of Ethereum.
+- [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) - Technical description of Ethereum. Technically outdated, but interesting.
 
 
 ## Programming
@@ -143,7 +141,6 @@ Descriptions and implementations of Ethereum-related protocols.
   - [A practical beginner's guide to creating, proving, and verifying zkSNARKs](https://github.com/jstoxrocky/zksnarks_example) - Introduction to zk-SNARKS and implementation as a smart contract.
   - [zk-SNARKS: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6) - Technical explanation of zk-SNARKS.
   - [zk-SNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/) - Technical explanation of zk-SNARKS.
-- Plasma
 
 
 ## Books
@@ -174,7 +171,7 @@ Descriptions and implementations of Ethereum-related protocols.
 # Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
+Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## License
 
