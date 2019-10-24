@@ -49,6 +49,7 @@ Official Ethereum Documentation.
 - [Ganache](https://truffleframework.com/ganache) - Personal Ethereum blockchain to run tests.
 - [Remix Online IDE](https://remix.ethereum.org/) - A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
 - [Embark Framework](https://github.com/embark-framework/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
+- [Eth Fiddle](https://ethfiddle.com/) - Online editor for smart contracts.
 
 
 ## Tutorials
@@ -71,6 +72,7 @@ Step by step guides on using Ethereum.
 
 - [Solidity Documentation](https://solidity.readthedocs.io) - Programming language of choice for smart contracts.
 - [Vyper Documentation](https://vyper.readthedocs.io/en/latest/index.html) - Experimental smart contract programming language intended to replace Solidity.
+- [Flint Documentation](https://docs.flintlang.org/) - Experimental contract orientated language for Ethereum.
 
 
 ## Learning and MOOCs
@@ -118,6 +120,8 @@ The Ideas behind the Ethereum Project.
 - [Etherscan](https://etherscan.io/) - Ethereum block explorer with other useful block utilities.
 - [Ethplorer](https://ethplorer.io/) - Ethereum block explorer.
 - [Etherchain](https://www.etherchain.org/) - Ethereum block explorer.
+- [Enjinx](https://enjinx.io/) - Ethereum block explorer, that also nicely visualizes assets and tokens.
+- [Blockchair](https://blockchair.com/ethereum/) - Multi block explorer with nice charts.
 
 ## Protocols
 
