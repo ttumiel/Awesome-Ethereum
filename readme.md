@@ -61,7 +61,7 @@ Step by step guides on using Ethereum.
 - [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4) - Smart contract tutorial with a focus on building up understanding before code.
 - [Parity DApp Tutorial](https://wiki.parity.io/Dapp-Tutorial) - 10 part tutorial on how to write DApps.
 - [Start Ethereum DApp Development Career](https://www.reddit.com/r/ethereum/comments/9h0w83/start_ethereum_dapp_development_career_ultimate/) - Informal guide to starting developing DApps.
-- [Full Stack DApp Tutorial Series](https://beta.kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-series) - Full stack DApps using various frameworks.
+- [Full Stack DApp Tutorial Series](https://kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-series) - Full stack DApps using various frameworks.
 - [Ethereum Builders Guide](https://ethereumbuilders.gitbooks.io/guide/content/en/index.html) - Gitbook for building on Ethereum that goes deeper into understanding technical functionality.
 - [Learning Solidity Tutorial Series](https://karl.tech/learning-solidity-part-1-deploy-a-contract/) - Building smart contracts with Metamask and Remix IDE.
 - [End to End DApp Tutorial](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e) - Create a gambling DApp using Metamask, Truffle, Remix, React and IPFS.
@@ -168,13 +168,13 @@ Descriptions and implementations of Ethereum-related protocols.
 - [ETH Gas Station](https://ethgasstation.info/) - A tool to check the current price of gas for transactions.
 - [Week in Ethereum](http://www.weekinethereum.com/) - A summary of everything happening in Ethereum each week.
 - [Ethereum Worldwide Meetups](https://www.meetup.com/find/?allMeetups=false&keywords=ethereum) - Meet up with the local Ethereum community via meetup.com.
-- [Ethereum Wiki Page](https://theethereum.wiki/w/index.php/Main_Page)
+- [Ethereum Wiki Page](https://eth.wiki/en/home)
 
 
 ## Official
 
 - [Ethereum Website](https://www.ethereum.org/)
-- [Ethereum Foundation](https://ethereum.org/foundation)
+- [Ethereum Foundation](https://ethereum.foundation/)
 - [Ethereum GitHub](https://github.com/ethereum/)
 
 
