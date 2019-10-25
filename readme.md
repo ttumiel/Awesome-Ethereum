@@ -188,5 +188,5 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, @Tom2718 has waived all copyright and
-related or neighboring rights to this work.
+To the extent possible under law, @ttumiel has waived all copyright and
+related or neighboring rights to this work. For the full license see `license.md`.
