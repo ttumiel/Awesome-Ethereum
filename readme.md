@@ -50,6 +50,7 @@ Official Ethereum Documentation.
 - [Remix Online IDE](https://remix.ethereum.org/) - A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
 - [Embark Framework](https://github.com/embark-framework/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
 - [Eth Fiddle](https://ethfiddle.com/) - Online editor for smart contracts.
+- [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals.
 
 
 ## Tutorials
