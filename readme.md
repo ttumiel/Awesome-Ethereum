@@ -123,6 +123,7 @@ The Ideas behind the Ethereum Project.
 - [Etherchain](https://www.etherchain.org/) - Ethereum block explorer.
 - [Enjinx](https://enjinx.io/) - Ethereum block explorer, that also nicely visualizes assets and tokens.
 - [Blockchair](https://blockchair.com/ethereum/) - Multi block explorer with nice charts.
+- [BlockScout](https://github.com/poanetwork/blockscout) - Open-source Blockchain Explorer for inspecting and analyzing EVM Chains
 
 ## Protocols
 
