@@ -91,6 +91,7 @@ Learn about the theory behind Ethereum.
 - [Bitcoin and Blockchain Technology: Concordia University](https://users.encs.concordia.ca/~clark/courses/1703-6630/index.html) - Introduction to Bitcoin and blockchain technology MOOC.
 - [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/) - Security related best practices for smart contracts.
 - [Low-Resource Eclipse Attacks on Ethereum’s Peer-to-Peer Network](https://www.cs.bu.edu/~goldbe/projects/eclipseEth.pdf)
+- [Developing Applications on Ethereum Blockchain](https://app.pluralsight.com/library/courses/blockchain-ethereum-developing-applications) - An in-depth course about developing Full-Stack applications on Ethereum blockchain.
 
 ## Philosophy
 
