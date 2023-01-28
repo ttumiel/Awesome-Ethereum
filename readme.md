@@ -170,6 +170,7 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Week in Ethereum](http://www.weekinethereum.com/) - A summary of everything happening in Ethereum each week.
 - [Ethereum Worldwide Meetups](https://www.meetup.com/find/?allMeetups=false&keywords=ethereum) - Meet up with the local Ethereum community via meetup.com.
 - [Ethereum Wiki Page](https://eth.wiki/en/home)
+- [Launchcaster](https://www.launchcaster.xyz/) - A place to share and discover new Web3 projects. Built on Farcaster & Lens protocols. 
 
 
 ## Official
