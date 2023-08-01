@@ -52,6 +52,9 @@ Official Ethereum Documentation.
 - [Eth Fiddle](https://ethfiddle.com/) - Online editor for smart contracts.
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals.
 
+## DevOps
+
+ - [Cannon](https://usecannon.com/) Continuous configuration automation & development cli multi-tool. Like Terraform, Docker and NPM for Ethereum.
 
 ## Tutorials
 
