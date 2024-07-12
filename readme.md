@@ -114,6 +114,7 @@ The Ideas behind the Ethereum Project.
 - [MyEtherWallet](https://www.myetherwallet.com/) - Online wallet service that interacts with the blockchain and performs several other useful functions.
 - [Mist](https://github.com/ethereum/mist) - Official Ethereum wallet - Browse and use Ðapps on the Ethereum network.
 - [MyCrypto](https://www.mycrypto.com) - Online wallet service that interacts with the blockchain and performs several other useful functions.
+- [Ambire](https://www.ambire.com) - The first hybrid Account abstraction wallet to support Basic (EOA) and Smart accounts, improving security and user experience.
 
 ## Blockchain Utilities
 
