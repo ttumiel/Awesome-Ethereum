@@ -153,6 +153,7 @@ Descriptions and implementations of Ethereum-related protocols.
   - [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/) - A thorough introduction to TBCs with code.
   - [Token Bonding Curves in Practice](https://tokeneconomy.co/token-bonding-curves-in-practice-3eb904720cb8) - Exploring a universal distribution of IP via non-fungible tokens and curation markets.
   - [Bonding Curve Playground](https://bondingplayground.netlify.com/) - An interactive bonding curve webapp.
+- [x402](https://github.com/xpaysh/awesome-x402) - Internet-native payment protocol using HTTP 402 status code for blockchain payments.
 
 
 ## Books
