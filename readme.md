@@ -154,6 +154,7 @@ Descriptions and implementations of Ethereum-related protocols.
   - [Token Bonding Curves in Practice](https://tokeneconomy.co/token-bonding-curves-in-practice-3eb904720cb8) - Exploring a universal distribution of IP via non-fungible tokens and curation markets.
   - [Bonding Curve Playground](https://bondingplayground.netlify.com/) - An interactive bonding curve webapp.
 
+- [py-ethclient](https://github.com/tokamak-network/py-ethclient) - Python Ethereum execution client built from scratch with EVM, RLPx, eth/68, snap/1, full & snap sync, Engine API, and JSON-RPC.
 
 ## Books
 
