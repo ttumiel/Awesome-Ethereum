@@ -123,6 +123,7 @@ The Ideas behind the Ethereum Project.
 - [Etherchain](https://www.etherchain.org/) - Ethereum block explorer.
 - [Enjinx](https://enjinx.io/) - Ethereum block explorer, that also nicely visualizes assets and tokens.
 - [Blockchair](https://blockchair.com/ethereum/) - Multi block explorer with nice charts.
+- [Ethereum History](https://ethereumhistory.com/) - Historical archive documenting the earliest contracts on Ethereum (2015-2017), with source code verification proofs through compiler archaeology.
 
 ## Protocols
 
