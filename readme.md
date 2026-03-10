@@ -51,6 +51,7 @@ Official Ethereum Documentation.
 - [Embark Framework](https://github.com/embark-framework/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
 - [Eth Fiddle](https://ethfiddle.com/) - Online editor for smart contracts.
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals.
+- [Dokrypt](https://github.com/dokrypt-org/dokrypt) - Open source CLI for spinning up full blockchain dev environments with local chains, block explorers, IPFS, oracles, and testing from a single YAML config.
 
 
 ## Tutorials
