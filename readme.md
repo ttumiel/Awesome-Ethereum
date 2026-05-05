@@ -115,6 +115,13 @@ The Ideas behind the Ethereum Project.
 - [Mist](https://github.com/ethereum/mist) - Official Ethereum wallet - Browse and use Ðapps on the Ethereum network.
 - [MyCrypto](https://www.mycrypto.com) - Online wallet service that interacts with the blockchain and performs several other useful functions.
 
+## Developer Tooling
+
+- [evmchain-config](https://github.com/harunosakura030303-maker/evmchain-config) - Universal EVM chain configuration manager for Hardhat, Foundry, viem, and ethers.
+- [hardhat-evmchain](https://github.com/harunosakura030303-maker/hardhat-evmchain) - Hardhat plugin for zero-boilerplate multi-chain configuration.
+- [evmchain-cli](https://github.com/harunosakura030303-maker/evmchain-cli) - CLI tool to manage and validate EVM chain configs.
+- [viem-multichain](https://github.com/harunosakura030303-maker/viem-multichain) - Multi-chain viem client factory.
+
 ## Blockchain Utilities
 
 - [ETH Gas Station](https://ethgasstation.info/) - A tool to check the current price of gas for transactions.
