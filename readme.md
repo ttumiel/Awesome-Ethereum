@@ -123,6 +123,7 @@ The Ideas behind the Ethereum Project.
 - [Etherchain](https://www.etherchain.org/) - Ethereum block explorer.
 - [Enjinx](https://enjinx.io/) - Ethereum block explorer, that also nicely visualizes assets and tokens.
 - [Blockchair](https://blockchair.com/ethereum/) - Multi block explorer with nice charts.
+- [rpcfree](https://rpcfree.com) - Free public JSON-RPC endpoints for Ethereum, Base, Polygon and Arbitrum. No signup or API key required.
 
 ## Protocols
 
