@@ -80,6 +80,7 @@ Step by step guides on using Ethereum.
 
 Learn about the theory behind Ethereum.
 
+- [Get Started with Web3](https://beihaili.github.io/Get-Started-with-Web3/) - Open-source, bilingual Web3 curriculum covering wallets, Bitcoin, Ethereum, DeFi, Layer 2, DAO, smart accounts, security, and builder labs.
 - [Ethereum Stack Exchange](https://ethereum.meta.stackexchange.com/questions/431/faq-frequently-asked-questions-and-reference-answers) - Question and answers about Ethereum.
 - [Smart contract safety](https://github.com/ethereum/wiki/wiki/Safety) - Ethereum wiki on best practices for safety in smart contracts.
 - [Accounts, Transactions, Gas, and Block Gas Limits in Ethereum](https://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/) - Functional description of Ethereum accounts, gas and transactions.
