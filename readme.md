@@ -51,6 +51,7 @@ Official Ethereum Documentation.
 - [Embark Framework](https://github.com/embark-framework/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
 - [Eth Fiddle](https://ethfiddle.com/) - Online editor for smart contracts.
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals.
+- [DeFiMath](https://defimath.com) - Gas-optimized Solidity library for DeFi math: Black-Scholes option pricing, Greeks, interest rates, and statistics.
 
 
 ## Tutorials
