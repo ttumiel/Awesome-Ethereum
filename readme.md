@@ -165,6 +165,7 @@ Descriptions and implementations of Ethereum-related protocols.
 ## Misc
 
 - [r/Ethereum](https://www.reddit.com/r/ethereum/) - Ethereum subreddit.
+- [Block Lottos](https://blocklottos.com/games) - Polygon and Base lottery dApp with public draw data, wallet-signed ticket transactions, and ad placement APIs.
 - [State of the DApps](https://www.stateofthedapps.com/) - A comprehensive list of the Decentralized Applications (DApps) on Ethereum.
 - [ETH Gas Station](https://ethgasstation.info/) - A tool to check the current price of gas for transactions.
 - [Week in Ethereum](http://www.weekinethereum.com/) - A summary of everything happening in Ethereum each week.
