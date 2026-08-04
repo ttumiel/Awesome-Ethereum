@@ -123,6 +123,7 @@ The Ideas behind the Ethereum Project.
 - [Etherchain](https://www.etherchain.org/) - Ethereum block explorer.
 - [Enjinx](https://enjinx.io/) - Ethereum block explorer, that also nicely visualizes assets and tokens.
 - [Blockchair](https://blockchair.com/ethereum/) - Multi block explorer with nice charts.
+- [OpenChainBench](https://openchainbench.com) - Independent open-source benchmarks for Ethereum and EVM RPC providers: latency, error rates, and archive depth across public endpoints. CC BY 4.0 data.
 
 ## Protocols
 
@@ -191,3 +192,4 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 
 To the extent possible under law, @ttumiel has waived all copyright and
 related or neighboring rights to this work. For the full license see `license.md`.
+
