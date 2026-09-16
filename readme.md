@@ -123,6 +123,7 @@ The Ideas behind the Ethereum Project.
 - [Etherchain](https://www.etherchain.org/) - Ethereum block explorer.
 - [Enjinx](https://enjinx.io/) - Ethereum block explorer, that also nicely visualizes assets and tokens.
 - [Blockchair](https://blockchair.com/ethereum/) - Multi block explorer with nice charts.
+- [Deep Blue Alpha](https://deepbluealpha.io/) - Free real-time Ethereum whale wallet tracker monitoring 20,000+ wallets with buy/sell classification, conviction scoring, net flow analysis, and a live leaderboard.
 
 ## Protocols
 
