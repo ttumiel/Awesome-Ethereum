@@ -49,7 +49,7 @@ Official Ethereum Documentation.
 - [Ganache](https://truffleframework.com/ganache) - Personal Ethereum blockchain to run tests.
 - [Remix Online IDE](https://remix.ethereum.org/) - A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
 - [Embark Framework](https://github.com/embark-framework/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
-- [Eth Fiddle](https://ethfiddle.com/) - Online editor for smart contracts.
+- [Coddy Solidity Playground](https://coddy.tech/playground/solidity) - Write, compile and run Solidity contracts in the browser, no wallet or testnet.
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals.
 
 
